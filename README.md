@@ -1,0 +1,2 @@
+# AssetSearcher
+FindPrefabByAnything, FindMaterialByShader, FindMaterialByTexture
